@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Migrations\\20250108180844_Ilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWT\\Migrations\\20250108180844_Ilk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26E82-7B32-4CA6-BC96-5553A1903CB1}|JWT\\JWT.csproj|c:\\users\\user\\desktop\\patika backend week14 jsonwebtoken\\jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5C26E82-7B32-4CA6-BC96-5553A1903CB1}|JWT\\JWT.csproj|solutionrelative:jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26E82-7B32-4CA6-BC96-5553A1903CB1}|JWT\\JWT.csproj|c:\\users\\user\\desktop\\patika backend week14 jsonwebtoken\\jwt\\jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D5C26E82-7B32-4CA6-BC96-5553A1903CB1}|JWT\\JWT.csproj|solutionrelative:jwt\\jwt.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5C26E82-7B32-4CA6-BC96-5553A1903CB1}|JWT\\JWT.csproj|c:\\users\\user\\desktop\\patika backend week14 jsonwebtoken\\jwt\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5C26E82-7B32-4CA6-BC96-5553A1903CB1}|JWT\\JWT.csproj|solutionrelative:jwt\\helper\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250108180844_Ilk.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Migrations\\20250108180844_Ilk.cs",
+              "RelativeDocumentMoniker": "JWT\\Migrations\\20250108180844_Ilk.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Migrations\\20250108180844_Ilk.cs",
+              "RelativeToolTip": "JWT\\Migrations\\20250108180844_Ilk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:08:44.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "JWT.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\JWT.http",
+              "RelativeDocumentMoniker": "JWT\\JWT.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\JWT.http",
+              "RelativeToolTip": "JWT\\JWT.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-08T18:06:45.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\appsettings.json",
+              "RelativeToolTip": "JWT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T18:05:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "JWT\\Controllers\\AuthController.cs",
@@ -50,12 +101,11 @@
               "RelativeToolTip": "JWT\\Controllers\\AuthController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAowDMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:33:27.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:33:27.006Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Helper\\Helper.cs",
               "RelativeDocumentMoniker": "JWT\\Helper\\Helper.cs",
@@ -68,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Program.cs",
               "RelativeDocumentMoniker": "JWT\\Program.cs",
@@ -76,12 +126,11 @@
               "RelativeToolTip": "JWT\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:14:52.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:14:52.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Dtos\\RegisterDto.cs",
               "RelativeDocumentMoniker": "JWT\\Dtos\\RegisterDto.cs",
@@ -89,12 +138,11 @@
               "RelativeToolTip": "JWT\\Dtos\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:12:13.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:12:13.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "JWT\\Dtos\\LoginDto.cs",
@@ -102,12 +150,11 @@
               "RelativeToolTip": "JWT\\Dtos\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:11:17.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:11:17.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Models\\User.cs",
               "RelativeDocumentMoniker": "JWT\\Models\\User.cs",
@@ -115,12 +162,11 @@
               "RelativeToolTip": "JWT\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:10:18.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:10:18.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week14 JsonWebToken\\JWT\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "JWT\\Data\\ApplicationDbContext.cs",
@@ -128,8 +174,7 @@
               "RelativeToolTip": "JWT\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T19:47:44.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T19:47:44.041Z"
             }
           ]
         }

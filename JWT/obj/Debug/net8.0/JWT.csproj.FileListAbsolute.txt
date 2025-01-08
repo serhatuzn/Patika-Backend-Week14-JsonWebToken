@@ -125,3 +125,4 @@ C:\Users\User\Desktop\Patika Backend Week14 JsonWebToken\JWT\obj\Debug\net8.0\re
 C:\Users\User\Desktop\Patika Backend Week14 JsonWebToken\JWT\obj\Debug\net8.0\JWT.pdb
 C:\Users\User\Desktop\Patika Backend Week14 JsonWebToken\JWT\obj\Debug\net8.0\JWT.genruntimeconfig.cache
 C:\Users\User\Desktop\Patika Backend Week14 JsonWebToken\JWT\obj\Debug\net8.0\ref\JWT.dll
+C:\Users\User\Desktop\Patika Backend Week14 JsonWebToken\JWT\obj\Debug\net8.0\JWT.sourcelink.json
